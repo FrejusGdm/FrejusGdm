@@ -13,8 +13,9 @@ I am **Josué G.**, a Computer Science major at Dartmouth College graduating in 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🤝🏻 **Connect, Follow** 
 
-![Static Badge](https://img.shields.io/badge/LINKEDIN-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjosu%C3%A9-f-godeme-58abb2196%2F)
 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josué-f-godeme-58abb2196/)
 
 <!---
 FrejusGdm/FrejusGdm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
