@@ -9,7 +9,7 @@ I am **Josué G.**, a Computer Science major at Dartmouth College graduating in 
 - 👀 I’m currently learning more about Machine Learning and NLP
 - 🌱 I’m looking to collaborate on Machine Learning projects
 - 💞️ Fun fact: I am native in French
-- 📫 How to reach me ...
+- 📫 How to reach me josue.f.godeme.26@dartmouth.edu
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🤝🏻 **Connect, Follow** 
 
