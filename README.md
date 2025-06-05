@@ -1,21 +1,23 @@
-Hi there, Welcome to my world!
-Let me introduce myself,
+Hi there, welcome to my world!
 
-I am **Josué G.**, a Computer Science major at Dartmouth College graduating in 2026. Guided by the principle to 'explore many realms yet master one', I've honed in on AI, especially **NLP for African languages**. As a Computer Science major, I'm fervently exploring intersections of tech, global health, and linguistics, with an aspiration to be an AI researcher driving social impact.
+I’m **Josué G.**, a Computer Science major at Dartmouth College (Class of 2026). I love building cool stuff—useful for myself and for people out there. I’m passionate about using technology to increase access to education and healthcare in Africa, and in the meantime, I’m working on a few exciting projects:
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+* 🚀 **Echo**: A speech-focused language learning app that lets you practice unscripted conversations with an AI tutor.
+* 📦 **Deka**: A Python library to compare translation providers and help developers choose the best fit for low-resource languages.
+* 🔬 **Research**: Exploring NLP for low-resourced African languages, aiming to publish novel approaches in machine translation and linguistic analysis.
 
-- ⚡️ I am currently working with the Research Computing Team at Dartmouth College as a Data Science Intern 
-- 👀 I’m currently learning more about Machine Learning and NLP
-- 🌱 I’m looking to collaborate on Machine Learning projects
-- 💞️ Fun fact: I am native in French
-- 📫 How to reach me josue.f.godeme.26@dartmouth.edu
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🤝🏻 **Connect, Follow** 
+I believe this is the golden age of building—so let’s build! When I’m not coding, you’ll find me diving into research on under-resourced languages, collaborating with peers on open-source projects, or brainstorming new ideas to drive social impact.
 
+---
 
+* 🎓 **Education**: B.A. in Computer Science, Dartmouth College (graduating 2026)
+* 🌱 **Current Focus**: AI/NLP for African languages; technology in global health & education
+* 🤝 **Let’s Collaborate**: Always open to new projects—especially ones that combine tech with social good
+* 💬 **Languages**: Native French, fluent English
+* 📫 **Reach Me**: [josue.f.godeme.26@dartmouth.edu](mailto:josue.f.godeme.26@dartmouth.edu)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josué-f-godeme-58abb2196/)
+**Connect & Follow**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/josué-f-godeme-58abb2196/)
 
 <!---
 FrejusGdm/FrejusGdm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
