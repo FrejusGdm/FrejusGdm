@@ -2,8 +2,8 @@ Hi there, welcome to my world!
 
 I’m **Josué G.**, a Computer Science major at Dartmouth College (Class of 2026). I love building cool stuff—useful for myself and for people out there. I’m passionate about using technology to increase access to education and healthcare in Africa, and in the meantime, I’m working on a few exciting projects:
 
-* 🚀 **Echo**: A speech-focused language learning app that lets you practice unscripted conversations with an AI tutor.
-* 📦 **Deka**: A Python library to compare translation providers and help developers choose the best fit for low-resource languages.
+* 🚀 [**Echo**](https://www.useecho.ai/): A speech-focused language learning app that lets you practice unscripted conversations with an AI tutor.
+* 📦 [**Deka**](https://deka-website.vercel.app): A Python library to compare translation providers and help developers choose the best fit for low-resource languages.
 * 🔬 **Research**: Exploring NLP for low-resourced African languages, aiming to publish novel approaches in machine translation and linguistic analysis.
 
 I believe this is the golden age of building—so let’s build! When I’m not coding, you’ll find me diving into research on under-resourced languages, collaborating with peers on open-source projects, or brainstorming new ideas to drive social impact.
