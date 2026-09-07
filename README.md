@@ -1,80 +1,74 @@
-# Hi there, welcome to my world! 👋
+# Hi, I'm Josué
 
-I'm **Josué**, a Computer Science student at Dartmouth College (Class of 2026), originally from **Benin, West Africa**. I build things that matter to me — and I move fast doing it.
+I'm a **Computer Science graduate from Dartmouth College**, Class of 2026.
 
-I believe technology, when adapted to local contexts, can meaningfully improve lives. That's what drives me.
+I build and research AI systems, especially in voice, language, agents, and products that move from research into the real world.
 
----
-
-## 🔨 What I'm Building
-
-- 🗣️ [**Orphi**](https://www.useecho.ai/) — A speech-first language learning app where you practice real, unscripted conversations with an AI tutor.
-- 📐 **Edge LLMs for Education** — Exploring how small language models deployed on-device (Raspberry Pi, iPhone) can power offline math tutoring in under-resourced areas.
+[**josuegodeme.com**](https://www.josuegodeme.com)
 
 ---
 
-## 🔬 Research
+## What I'm Building
 
-I work on NLP — building systems that understand and generate human language, especially in challenging, real-world settings (or low-resourced). I've published at **LREC**, and **PSB**.
+* **Akili** — Building voice AI for languages that today's major AI systems still don't support. I'm currently working on speech recognition, speech generation, data infrastructure, and real-world deployments.
 
----
+* **AI agents that follow the law** — Previously worked on systems for making AI agents comply with laws and regulations, including building structured legal infrastructure across U.S. law.
 
-## 🏅 Highlights
-
-- 🎓 **King Scholar** & **Stamps Scholar** at Dartmouth
-- 🥇 **Ranked #1** among 80,000+ candidates on Benin's national baccalauréat — 2nd highest score in the country's history
-- 💰 **Davis Peace Project** grant recipient — funded language documentation workshops in Benin
+* **AI products** — I've built and shipped products across voice AI, language learning, legal AI, education, and agent infrastructure.
 
 ---
 
-## 🌐 About Me
+## Research
 
-- 🎓 **Education**: B.A. Computer Science + Mandarin minor, Dartmouth College
-- 🔨 **Builder**: I love shipping things — fast, scrappy, and useful. From iOS apps to research systems.
-- ⚡ **Adapts fast**: New stack? New domain? I pick it up and run.
-- 🌱 **Obsessed with**: Edge AI, education access, and what LLMs can do on a $35 computer
-- 💬 **Languages**: Adja, French, English, Mandarin:  4 ways of thinking lol
-- 🤝 **Open to**: Research collabs, projects combining tech + social impact, and interesting conversations
-- 📫 **Reach me**: [josue.f.godeme.26@dartmouth.edu](mailto:josue.f.godeme.26@dartmouth.edu)
-- 🌍 **Website**: [josuegodeme.com](https://www.josuegodeme.com)
+My research focuses on **language technology under extreme data scarcity**.
 
----
+For my undergraduate thesis, I built machine translation and speech systems for **Adja**, a language with very little existing digital data.
 
-**Connect**
+Some of my work includes:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josué-f-godeme-58abb2196/)
+* Machine translation for extremely low-resource languages
+* Automatic speech recognition and text-to-speech
+* Building language datasets from scratch
+* Multilingual AI and language model evaluation
+
+I've published research at **LREC** and **PSB**.
 
 ---
 
-> *"I believe this is the golden age of building — so let's build."*
+## Things I've Built
 
-<!---
-FrejusGdm/FrejusGdm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
-<!---
-
-Hi there, welcome to my world!
-
-I’m **Josué G.**, a Computer Science major at Dartmouth College (Class of 2026). I love building cool stuff—useful for myself and for people out there. I’m passionate about using technology to increase access to education and healthcare in Africa, and in the meantime, I’m working on a few exciting projects:
-
-* 🚀 [**Echo**](https://www.useecho.ai/): A speech-focused language learning app that lets you practice unscripted conversations with an AI tutor.
-* 📦 [**Deka**](https://deka-website.vercel.app): A Python library to compare translation providers and help developers choose the best fit for low-resource languages.
-* 🔬 **Research**: Exploring NLP for low-resourced African languages, aiming to publish novel approaches in machine translation and linguistic analysis.
-
-I believe this is the golden age of building—so let’s build! When I’m not coding, you’ll find me diving into research on under-resourced languages, collaborating with peers on open-source projects, or brainstorming new ideas to drive social impact.
+* **Orphi** — A voice-first language learning app for practicing unscripted conversations with an AI tutor.
+* **Adja language technology** — Built datasets and some of the first machine translation and speech systems for Adja.
+* **Legal AI infrastructure** — Worked on building a structured database of U.S. laws for AI agents operating in regulated environments.
+* **Agents** — Experimenting with autonomous agents, agent collaboration, computer use, and the infrastructure needed for agents to do useful work in the real world.
 
 ---
 
-* 🎓 **Education**: B.A. in Computer Science, Dartmouth College (graduating 2026)
-* 🌱 **Current Focus**: AI/NLP for African languages; technology in global health & education
-* 🤝 **Let’s Collaborate**: Always open to new projects—especially ones that combine tech with social good
-* 💬 **Languages**: Native French, fluent English
-* 📫 **Reach Me**: [josue.f.godeme.26@dartmouth.edu](mailto:josue.f.godeme.26@dartmouth.edu)
+## A Few Things About Me
 
-**Connect & Follow**
+* B.A. in Computer Science, **Dartmouth College**, June 2026
+* **King Scholar** and **Stamps Scholar**
+* Ranked **#1 out of 80,000+ students** on Benin's national baccalauréat
+* Undergraduate thesis awarded **High Honors in Computer Science**
+* Built language technology from the ground up for my native language, Adja
+* Adja · French · English · Mandarin
+
+---
+
+## What I'm Interested In
+
+**AI agents · voice AI · multilingual AI · robotics · language models · new interfaces · ambitious technical products**
+
+I like talking to people working on hard problems, especially problems where the answer isn't obvious yet.
+
+**Website:** [josuegodeme.com](https://www.josuegodeme.com)
+**Email:** [josue.f.godeme.26@dartmouth.edu](mailto:josue.f.godeme.26@dartmouth.edu)
+
+---
+
+## Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/josué-f-godeme-58abb2196/)
 
-<!---
-FrejusGdm/FrejusGdm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> *I believe this is the golden age of building, so let's build.*
+
